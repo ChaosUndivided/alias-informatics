@@ -2,7 +2,7 @@
   "name": "Элиас: Информатика",
   "short_name": "Элиас",
   "description": "Игра Элиас по терминам информатики для подготовки к ЕГЭ",
-  "start_url": "/",
+  "start_url": "/alias-informatics/",
   "display": "standalone",
   "background_color": "#1e1e24",
   "theme_color": "#1e1e24",
